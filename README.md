@@ -6,7 +6,7 @@
 
 ## Installation
 
-No install required, run the included binary or compile with Visual Studio 2019
+No install required, run the included binary or compile with Visual Studio 2019 (VB.net)
 
 ## Usage example
 Run NoteTool.exe
@@ -15,7 +15,7 @@ To edit the categories just edit the associated text files in the same directory
 
 ## Development setup
 
-Visual Studio 2019
+Visual Studio 2019 (VB.net)
 
 ## Release History
 
